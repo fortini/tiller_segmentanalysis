@@ -19,8 +19,32 @@ Performance of to go orders and in-house orders.
 
 In order to achieve that, we 
 Are there outliers in the data, if yes, how should they be treated
+Provide business recommendations to the product team to reduce churn rate.
 
+Outputs from the project
+In a team of 4-5 analysts, we will create a dashboard for Tiller breaking down their cohorts, and provide key metrics that will help in increasing their revenue, improve client and employee happiness. 
 
 Tools
 The tools used in that project was: Github, Collab, Big Query, Python and Looker Studio.
 
+Project Steps
+     Business Problem Definition
+     Data Mapping
+     Choice of Tools - Software Used
+     ETL (Extraction, Transformation and Loading)
+     Dashboard development
+     Discoveries and Insights
+     Recommendations
+
+Data Mapping
+     The data is in a CSV format file (comma separated) as shown in the sample below:
+
+
+     ETL (Extraction, Transformation and Loading)
+Data preparation
+     Cleaning, transformation, modeling, data quality checking, etc.
+
+Exploratory analysis
+     Extraction of relevant descriptive statistics.
+
+Project Insights
